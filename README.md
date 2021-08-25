@@ -1,5 +1,4 @@
 # Aderlando Oliveira(curriculo)
-
 local: João Pessoa/PB, Natural de Maceió/AL 40 anos, trabalho como técnico de suporte desde 2018, atuando no ramo de telecomunicaçõs.
 prestador de serviço para:<br>
 STARNET TELECOM,<br>
