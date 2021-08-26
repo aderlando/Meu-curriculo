@@ -1,5 +1,5 @@
 # Aderlando Oliveira(currículo)
-img src="https://github.com/aderlando/Meu-curriculo/blob/main/aderlando.jpg" />
+<img src="https://github.com/aderlando/Meu-curriculo/blob/main/aderlando.jpg" />
 local: João Pessoa/PB, Natural de Maceió/AL 40 anos, trabalho como técnico de suporte desde 2008, atuando na área de telecomunicaçõs.
 prestador de serviço para:<br>
 STARNET TELECOM,<br>
