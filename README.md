@@ -1,11 +1,11 @@
 # Aderlando Oliveira(currículo)
 
-local: João Pessoa/PB, Natural de Maceió/AL 40 anos, trabalho como técnico de suporte desde 2018, atuando no ramo de telecomunicaçõs.
+local: João Pessoa/PB, Natural de Maceió/AL 40 anos, trabalho como técnico de suporte desde 2008, atuando na área de telecomunicaçõs.
 prestador de serviço para:<br>
 STARNET TELECOM,<br>
 AFNET TELECOM,<br>
 INFORSUPER TELECOM.<br>
-Busco todos os dias novos aprendizados, assim aprimorando o meu curriculo, atualmente projeto impressoras 3D e modelagem 3D,
+Busco todos os dias novos aprendizados, assim aprimorando a minha grade currícular, atualmente projeto impressoras 3D e modelagem 3D,
 sempre trabalhando com calma e tranquilidade.
 <h3>CONHECIMENTOS:</h4>
 
