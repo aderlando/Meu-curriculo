@@ -19,6 +19,8 @@ sempre trabalhando com calma e tranquilidade.
 * BGP(cisco,Huawei)<br>
 * Mikrotik<br>
 * Projetos FTTH e execão<br>
+* Impressão 3D
+* Stamparia (sublimação e Transfer)
  
  * <h4> FORMAÇÃO:
   
