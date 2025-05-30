@@ -1,5 +1,5 @@
 # Aderlando Oliveira(currículo)
-<img src="https://github.com/aderlando/Meu-curriculo/blob/main/aderlando.jpg" />
+<img src="https://github.com/aderlando/Meu-curriculo/blob/main/photo.jpg" />
 local: João Pessoa/PB, Natural de Maceió/AL 40 anos, trabalho como técnico de suporte desde 2008, atuando na área de telecomunicaçõs.
 prestador de serviço para:<br>
 STARNET TELECOM,<br>
@@ -23,6 +23,7 @@ sempre trabalhando com calma e tranquilidade.
  * <h4> FORMAÇÃO:
   
  * <h4>MTCNA,MTCRE (CONTRACT-TI 2019)(certificação 05/2019)<br
+ . tecnico em informatica
  * Planejamento e Projetos de rede FTTH (fiberscool- 05/2019<br>
  * Configuração e Monitoramento de OLT (fiberscool) 06/2019 (Mateus Plastinos)<br>
  * TIC(SENAI)2010<br>
